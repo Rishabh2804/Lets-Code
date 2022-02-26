@@ -1,0 +1,53 @@
+# Ignore configuration & executable files
+.vscode
+*\.h
+*\.ini
+
+# Test files
+Test Files/*
+test.cpp
+test1.cpp
+codechef.cpp
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Ignore custom testing files
+test.cpp
+*.txt
+
+# Ignore CPH files
+.cph
+
+# Ignore CP platform files
+Practice Platforms

@@ -1,0 +1,18 @@
+# Ignore .class files for Java
+/bin
+/*/.class
+/*/*/.class
+/*/*/*/.class
+
+# Ignore configurations for VS Code
+.vscode
+.ini
+.classpath
+.project
+
+# Ignore CP platform files
+src/*
+LeetCode
+Code Studio
+GFG
+
